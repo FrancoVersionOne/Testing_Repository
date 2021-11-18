@@ -1,2 +1,2 @@
-# Testing_Repository
+# Personal Proyects
 Repository for proofs of concepts and non-professional projects
